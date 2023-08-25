@@ -30,7 +30,5 @@ void draw(){
   ellipse(200,210,70, 40); 
   ellipse(180,210,10, 10); 
   ellipse(220,210,10, 10); 
-  System.out.println(mouseX);
-  System.out.println(mouseY);
 }
 
